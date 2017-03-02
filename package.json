@@ -1,5 +1,5 @@
 {
-  "name": "cucumber starter",
+  "name": "cucumber-starter",
   "version": "0.0.1",
   "description": "CucumberJS starter, https://github.com/cucumber/cucumber-js",
   "main": "index.js",
@@ -12,5 +12,8 @@
     "chromedriver": "^2.25.1",
     "cucumber": "^2.0.0-rc.7",
     "selenium-webdriver": "^3.0.1"
+  },
+  "dependencies": {
+    "cucumberjs-json-api-mocking": "^1.0.8"
   }
 }
